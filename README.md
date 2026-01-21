@@ -360,6 +360,5 @@ poetry run python /app/scripts/main/retrieve.py
 
 
 ## Todo list
-2. retrieve query decomposer
-3. retrieve by given resume id 
-4. permission
++ time-depenent or range query
+
